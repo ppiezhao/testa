@@ -1,0 +1,35 @@
+{
+    "name": "aaa #1",
+    "image": "https://raw.githubusercontent.com/ppiezhao/testa/main/a/1.jpeg",
+    "external_url": "https://raw.githubusercontent.com/ppiezhao/testa/main/a/1",
+    "attributes": [
+        {
+            "trait_type": "A",
+            "value": "1"
+        },
+        {
+            "trait_type": "B",
+            "value": "2"
+        },
+        {
+            "trait_type": "C",
+            "value": "3"
+        },
+        {
+            "trait_type": "D",
+            "value": "4"
+        },
+        {
+            "trait_type": "E",
+            "value": "5"
+        },
+        {
+            "trait_type": "F",
+            "value": "6"
+        },
+        {
+            "trait_type": "G",
+            "value": "7"
+        }
+    ]
+}
